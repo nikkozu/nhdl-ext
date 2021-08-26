@@ -8,10 +8,5 @@
             "matches": ["https://nhentai.net/g/*"],
             "js": ["nhdl-button.js"]
         }
-    ],
-    "browser_specific_settings": {
-        "gecko": {
-            "id": "extension@masami45.github.com"
-        }
-    }
+    ]
 }
